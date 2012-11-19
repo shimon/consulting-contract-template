@@ -1,0 +1,184 @@
+\documentclass[10pt]{article}
+
+\usepackage{geometry}
+\geometry{letterpaper,tmargin=1in,bmargin=1in,lmargin=1.4in,rmargin=1.4in}
+
+\begin{document}
+
+\begin{center}
+{\Large Software Development and Consulting Services Agreement}
+\end{center}
+
+\hrule height .1mm
+
+\vspace{.5cm}
+
+\noindent This Agreement is dated and in effect as of the [Nth of MONTH, YEAR], between:\\
+\\
+{\bf Client, LLC\\
+123 Anywhere St.\\
+Boston, MA 02345\\}
+\\
+(hereinafter the ``Client''), and\\
+\\
+{\bf Consultant Legal or Business Name\\
+456 Elsewhere St.\\
+Boston, MA 02123\\}
+\\
+(hereinafter the ``Consultant'').  This Agreement is with respect to the
+development of software for the Client, hereinafter referred to as the
+``Work.''   Whereas, Consultant is a professional software developer of good
+standing; Whereas, Client wishes Consultant to create certain Work described
+more fully herein; and Whereas, Consultant wishes to create such Work; Now,
+therefore, in consideration of the foregoing premises and the mutual
+covenants hereinafter set forth and other valuable considerations, the
+parties hereto agree as follows: 
+
+
+\section{Services}
+
+Consultant will provide software development services for a [SHORT
+  DESCRIPTION OF PRODUCT HERE].  Components and features of this site will
+be determined collaboratively by Client and Consultant, and are expected to
+include [KEY FEATURES IF DESIRED].
+
+Consultant's responsibilities will include collaborating with Client to
+establish software requirements and priorities based on Client's business
+goals; development of software in accordance with these requirements and
+priorities; deployment of such software onto internet-accessible systems;
+and administration of such systems.  In support of these goals, Client is
+expected to work with Consultant to set priorities, review software as it is
+developed, and produce product research and specifications as required.
+Client and Consultant will arrange periodic meetings and phone discussions
+to support this collaboration.
+
+
+\section{Compensation and Payment}
+
+In consideration of the Consultant's services, Client will pay
+Consultant at the rate of {\bf \$[BILLIONS] / hour.}
+
+Consultant will provide an invoice to the Client at the end of each calendar
+month, indicating time worked each day during that month and the
+amount due.  Payment will be made to Consultant in US dollars, by check or
+wire transfer, within thirty (30) days of receipt of the invoice.  Travel,
+living and any related out-of-pocket expenses, if authorized in writing by
+Client, will be indicated on the invoice and reimbursed at cost.
+
+
+\section{Contract Length and Availability}
+
+The full length of this contract is as follows:
+
+Starting date is the [Nth day of MONTH, YEAR] and end date is the [Nth day of LATER MONTH, YEAR -- {\em you may also want to say that the end date is to be determined through mutual agreement or until such time as the contract is terminated per the terms described below}].
+
+During this period, Consultant will guarantee availability of at least [SOME REASONABLE NUMBER, IF THE CLIENT CARES]
+hours per week for work on tasks selected by the Client.  Client and
+Consultant will review this time guarantee every two weeks and may adjust it
+as agreed upon with two weeks notice.
+
+Should the Consultant be rendered unable to work by illness, injury, or
+emergency, the Consultant will notify Client at Consultant's earliest
+opportunity, and the guarantee of availability will not apply during those
+weeks when the Consultant is unable to work.
+
+The Consultant and Client may specify, by advance written agreement, that no
+work shall be performed and no charges assessed during certain periods when
+either party is unavailable.  At present, Consultant expects to be available
+for the full guaranteed time through [MONTHS]. {\em [This is where you note any vacations or schedule restrictions that you want to give the client early notice of.]}
+
+
+\section{Termination}
+
+Either party may terminate this Agreement by giving 30 days written notice
+to the other of such termination. In the event that Work is postponed or
+terminated at the request of the Client, Consultant shall have the right to
+bill %pro rata 
+for work completed through the date of that request, while
+reserving all rights under this Agreement. If additional payment is due,
+this shall be payable within thirty days of the Client's written
+notification to stop work. In the event of termination, the Client shall
+also pay any expenses incurred by Consultant.  The Client shall assume
+responsibility for all collection of legal fees necessitated by default in
+payment.
+
+
+
+
+\section{Confidentiality}
+
+The Client and Consultant may disclose confidential information one to the
+other to facilitate work under this Agreement.  Such information shall be so
+identified in writing at the time of its transmittal, and shall be
+safeguarded and not disclosed to third parties by the receiving party.
+Confidential information shall not include information that:
+
+\begin{enumerate}
+  \item is already known to the party to which it is disclosed; 
+  \item is or becomes part of the public domain without breach of this Agreement;
+  \item is obtained from third parties, which have no obligations to keep
+    confidential to the parties to this Agreement. 
+\end{enumerate}
+
+
+
+
+\section{Permissions and Releases}
+
+The Client agrees to indemnify and hold harmless Consultant against any and
+all claims, costs, and expenses, including attorney's fees, due to materials
+included in the Work at the request of the Client for which no copyright
+permission or previous release was requested or uses which exceed the uses
+allowed pursuant to a permission or release.  
+
+
+\section{Copyright Notice [OPTIONAL - may also be a `work for hire' assignment - hack as appropriate]}
+
+Copyright on Work is in Consultant's name.  Consultant reserves the right to incorporate the Work into projects for clients other than the Client, and reserves the right to license the Work (or components thereof) on terms of Consultant's choice without restriction.
+
+
+\section{Independent Contractor}
+
+The Client and Consultant are independent parties and nothing in this
+Agreement shall constitute either party as the employer, principal or
+partner of or joint venture with the other party.  Neither the Client nor
+Consultant has any authority to assume or create any obligation or
+liability, either express or implied, on behalf of the other.
+
+\section{General}
+
+If any provision of this Agreement is held by a court of competent
+jurisdiction to be invalid, void, or unenforceable, the remaining provisions
+will nevertheless continue in full force and effect, and the parties shall,
+in good faith, attempt to modify the invalid provision so it becomes a valid
+provision.
+
+This Agreement constitutes the entire understanding and agreement of the
+parties and supersedes all prior written or oral agreements with respect to
+the subject matter of this Agreement. This Agreement may not be modified or
+amended without the express written agreement of both parties. Waiver of any
+provision of this Agreement by a party shall not constitute a waiver of any
+other provision or waiver of the same provision at any other time.
+
+[EDIT THIS NEXT SECTION FOR YOUR STATE]
+
+This Agreement shall be governed by and construed in accordance with the
+laws of the Commonwealth of Massachusetts, and both parties hereby consent
+to the exclusive jurisdiction and venue of the state and federal courts of
+the Commonwealth. Additionally, the parties also agree and consent to
+process within or without said Commonwealth by certified mail requiring a
+signed receipt.
+
+\vspace{1cm} 
+
+\noindent The undersigned agrees to the terms of this agreement on behalf of his or
+her organization or business.\\\\
+
+\noindent \begin{tabular}{l l l}
+On behalf of the Client: & \rule{6cm}{.2pt} & Date: \rule{2.4cm}{.2pt}\\
+                         & CLIENT REPRESENTATIVE      & \\\\\\
+The Consultant:          & \rule{6cm}{.2pt} & Date: \rule{2.4cm}{.2pt}\\
+                         & CONSULTANT NAME      & \\
+\end{tabular}
+
+\end{document}
