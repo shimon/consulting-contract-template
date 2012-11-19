@@ -1,3 +1,6 @@
+A Consulting Contract Template for Hackers
+==========================================
+
 This is an example consulting contract. You'll need to edit it before using - look for the [BRACKETED SECTIONS]. But also read through it, and beware that this contract is an example only and does not consitute legal advice.
 
 This contract is in the public domain.
@@ -6,14 +9,16 @@ Thank you,
 Shimon Rura
 19 Nov 2012
 
-=== What this thing can't do
+What this thing can't do
+------------------------
 
 Be aware that this contract isn't really going to protect you from clients
 who aren't going to pay you -- if that's a concern with a given client, you
 should set up payment terms that minimize this risk, as legal means of
 enforcing payment generally aren't worth the cost.
 
-=== Statement of Work
+Statement of Work
+-----------------
 
 If you want to include a SOW what I'd do is change the first line in
 *Services* to something like:
